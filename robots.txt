@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newyangs007.github.io/atelier-electro/sitemap.xml
