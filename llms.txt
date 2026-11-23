@@ -42,8 +42,24 @@
 - [Rokid AI 글래스](https://newyangs007.github.io/atelier-electro/p/123803984.html): 관망 3.0, 999,000원, 다나와 AI 스마트안경 인기 2위
 - [앤커 사운드코어 워크 AI 녹음기 D3200](https://newyangs007.github.io/atelier-electro/p/123134941.html): 관망 3.0, 168,900원, 다나와 AI 녹음기 인기 4위
 - [이븐리얼리티스 G2 AI 글래스 A타입](https://newyangs007.github.io/atelier-electro/p/124921931.html): 관망 3.0, 1,099,000원, 다나와 AI 스마트안경 인기 3위 · 이번 달 등록
+- [LG 스탠바이미2 Max 32LX6BPGA](https://newyangs007.github.io/atelier-electro/p/122632760.html): 관망 3.0, 1,289,880원, 다나와 TV 인기 1위
+- [삼성 갤럭시탭S11 128GB](https://newyangs007.github.io/atelier-electro/p/96985325.html): 관망 3.0, 1,109,290원, 다나와 태블릿 인기 1위
+- [APPLE 에어팟 프로3](https://newyangs007.github.io/atelier-electro/p/97405013.html): 관망 3.0, 287,490원, 다나와 무선 이어폰 인기 1위
 - [Ninja PREPi 프렙+보관 시스템](https://newyangs007.github.io/atelier-electro/p/ninja-prepi.html): 관망 2.5, $179 / $229, 미국 신제품
 - [삼성 비스포크 AI 콤보 세탁건조기 WD80H25BHW](https://newyangs007.github.io/atelier-electro/p/108693731.html): 관망 2.5, 2,610,710원, 다나와 올인원 세탁건조기 인기 2위
+- [LG 그램북 16U55U-GSOWK](https://newyangs007.github.io/atelier-electro/p/122624573.html): 관망 2.5, 1,234,880원, 다나와 AI 노트북 인기 2위
+- [삼성 갤럭시S26 256GB 자급제](https://newyangs007.github.io/atelier-electro/p/106720964.html): 관망 2.5, 1,118,920원, 다나와 휴대폰 인기 2위
+- [삼성 갤럭시워치9 40mm 블루투스](https://newyangs007.github.io/atelier-electro/p/123234951.html): 관망 2.5, 442,950원, 다나와 스마트워치 인기 2위
+- [가민 포러너 265](https://newyangs007.github.io/atelier-electro/p/19457261.html): 관망 2.5, 459,000원, 다나와 스마트워치 인기 6위
+- [SONY WH-1000XM6](https://newyangs007.github.io/atelier-electro/p/92622830.html): 관망 2.5, 479,190원, 다나와 무선 헤드폰 인기 3위
+- [SONY WH-1000XM5](https://newyangs007.github.io/atelier-electro/p/17229284.html): 관망 2.5, 272,800원, 다나와 무선 헤드폰 인기 2위
+- [삼성 Mini LED KU75MH75AFXKR 75인치](https://newyangs007.github.io/atelier-electro/p/122616528.html): 관망 2.0, 1,362,680원, 다나와 TV 인기 7위
+- [삼성 갤럭시북6 프로 NT960XJG-KC51G](https://newyangs007.github.io/atelier-electro/p/104939918.html): 관망 2.0, 2,689,990원, 다나와 AI 노트북 인기 16위
+- [APPLE 2025 iPad A16 11세대 128GB](https://newyangs007.github.io/atelier-electro/p/77313098.html): 관망 2.0, 629,520원, 다나와 태블릿 인기 10위
+- [APPLE 아이폰17 256GB 자급제](https://newyangs007.github.io/atelier-electro/p/101956046.html): 관망 2.0, 1,251,300원, 다나와 휴대폰 인기 17위
+- [APPLE 워치 SE 3세대 40mm](https://newyangs007.github.io/atelier-electro/p/96981758.html): 관망 2.0, 325,690원, 다나와 스마트워치 인기 11위
+- [삼성 갤럭시 버즈3 프로 SM-R630N](https://newyangs007.github.io/atelier-electro/p/59537216.html): 관망 2.0, 219,000원, 다나와 무선 이어폰 인기 11위
+- [APPLE 에어팟4 액티브 노이즈 캔슬링](https://newyangs007.github.io/atelier-electro/p/65919884.html): 관망 2.0, 179,500원, 다나와 무선 이어폰 인기 10위
 
 ## 지난 호 / Archive
 - [2026-11-23 No.002 블프 마지막 주, AI 안경은 이미 품절](https://newyangs007.github.io/atelier-electro/issue/2026-11-23.html)
