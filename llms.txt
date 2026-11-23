@@ -8,18 +8,18 @@
 - 쿠팡 링크는 쿠팡 파트너스 제휴 링크입니다
 
 ## 최신 호 / Latest issue
-- [2026-11-23 한국어판 (Markdown)](https://newyangs007.github.io/atelier-electro/issue/2026-11-23.md): 블프 마지막 주, AI 안경은 이미 품절
-- [2026-11-23 한국어판 (HTML)](https://newyangs007.github.io/atelier-electro/issue/2026-11-23.html)
-- [2026-11-23 English edition (Markdown)](https://newyangs007.github.io/atelier-electro/en/issue/2026-11-23.md)
+- [2026-11-24 한국어판 (Markdown)](https://newyangs007.github.io/atelier-electro/issue/2026-11-24.md): TV는 中이 앞서고, 로봇청소기는 해외로
+- [2026-11-24 한국어판 (HTML)](https://newyangs007.github.io/atelier-electro/issue/2026-11-24.html)
+- [2026-11-24 English edition (Markdown)](https://newyangs007.github.io/atelier-electro/en/issue/2026-11-24.md)
 - [English homepage](https://newyangs007.github.io/atelier-electro/en/)
 
-## AI가전 MD 셀렉트 (2026-11-23)
+## AI가전 MD 셀렉트 (2026-11-24)
 - [LG 디오스 AI 오브제컬렉션 냉장고 T876MEE1H1](https://newyangs007.github.io/atelier-electro/p/122666101.html): 다나와 냉장고 인기 2위, 2,137,490원, 리뷰 945·평점 4.8. 다나와 냉장고 인기 2위의 AI 모델. 폭 914mm가 들어갈 자리부터 재 보세요.
 - [삼성 비스포크 AI 스팀 울트라 VR90F01AAG](https://newyangs007.github.io/atelier-electro/p/124075114.html): 다나와 로봇청소기 인기 2위 · CES 2026 AI 기능, 1,493,460원, 리뷰 763·평점 4.7. 사물·투명 액체 인식이 강점. 직배수형(VR90F01SAG)은 설치 여건을 먼저 확인하세요.
 - [LG 디오스 AI 오브제컬렉션 김치톡톡 Z490MEEF11](https://newyangs007.github.io/atelier-electro/p/99125183.html): 다나와 김치냉장고(스탠드형) 인기 4위 · 김장철, 2,067,110원, 리뷰 464·평점 4.9. 지금이 김장철 성수기. 설치 폭 835mm와 기본 김치통 8개 구성을 먼저 확인하세요.
 - [로보락 S10 MaxV Ultra Steam 로봇청소기](https://newyangs007.github.io/atelier-electro/p/124468606.html): 다나와 로봇청소기 인기 5위 · 10월 신제품, 1,639,990원, 리뷰 499·평점 4.8. 스팀 살균 스테이션이 차별점. 문턱이 많은 집이라면 최대 8.8cm 넘기 기능이 유리합니다.
 
-## 오늘의 추천템 (2026-11-23)
+## 오늘의 추천템 (2026-11-24)
 - [신일 에코 팬 큐브 히터 SEH-H800V](https://newyangs007.github.io/atelier-electro/p/124871036.html): 추천템 4.0, 128,880원, 다나와 전기히터 인기 1위
 - [조지루시 STAN 가습기 EE-FAH50K](https://newyangs007.github.io/atelier-electro/p/124298665.html): 추천템 4.0, 360,490원, 다나와 가습기 인기 1위
 - [블라우풍트 에어이지 프로 BLP-HD7300](https://newyangs007.github.io/atelier-electro/p/97406273.html): 추천템 4.0, 67,860원, 다나와 헤어드라이어 인기 4위
@@ -46,7 +46,6 @@
 - [앤커 유피 C28 옴니 로봇청소기](https://newyangs007.github.io/atelier-electro/p/107769194.html): 관망 3.0, 599,900원, 다나와 로봇청소기 인기 6위
 - [삼성 갤럭시탭S11 128GB](https://newyangs007.github.io/atelier-electro/p/96985325.html): 관망 3.0, 1,109,290원, 다나와 태블릿 인기 1위
 - [APPLE 에어팟 프로3](https://newyangs007.github.io/atelier-electro/p/97405013.html): 관망 3.0, 287,490원, 다나와 무선 이어폰 인기 1위
-- [Ninja PREPi 프렙+보관 시스템](https://newyangs007.github.io/atelier-electro/p/ninja-prepi.html): 관망 2.5, $179 / $229, 미국 신제품
 - [삼성 비스포크 AI 콤보 세탁건조기 WD80H25BHW](https://newyangs007.github.io/atelier-electro/p/108693731.html): 관망 2.5, 2,610,710원, 다나와 올인원 세탁건조기 인기 2위
 - [로보락 S9 MaxV Ultra 로봇청소기](https://newyangs007.github.io/atelier-electro/p/93806297.html): 관망 2.5, 1,190,000원, 다나와 로봇청소기 인기 7위
 - [에코백스 디봇 T90 프로 옴니 로봇청소기](https://newyangs007.github.io/atelier-electro/p/106687076.html): 관망 2.5, 899,000원, 다나와 로봇청소기 인기 9위
@@ -68,6 +67,7 @@
 - [APPLE 에어팟4 액티브 노이즈 캔슬링](https://newyangs007.github.io/atelier-electro/p/65919884.html): 관망 2.0, 179,500원, 다나와 무선 이어폰 인기 10위
 
 ## 지난 호 / Archive
+- [2026-11-24 No.003 TV는 中이 앞서고, 로봇청소기는 해외로](https://newyangs007.github.io/atelier-electro/issue/2026-11-24.html)
 - [2026-11-23 No.002 블프 마지막 주, AI 안경은 이미 품절](https://newyangs007.github.io/atelier-electro/issue/2026-11-23.html)
 - [2026-11-22 No.001 덜 사고, 더 좋은 것을 산다](https://newyangs007.github.io/atelier-electro/issue/2026-11-22.html)
 
