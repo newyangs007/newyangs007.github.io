@@ -1,8 +1,8 @@
 # 가전레이더 (GAJEON RADAR)
 
-> 가전레이더는 AI가전·AI디바이스(AI 안경·AI 녹음기)·소형가전·대형가전 트렌드와 다나와 인기순위·리뷰로 고른 MD 추천템을 매일 아침 8시(KST)에 정리하는 한국어 가전 매거진입니다. Gajeon Radar is a daily Korean appliance magazine (English edition available) covering AI appliances, AI devices, small and major appliances in Korea, the US, Japan, China and Europe. Every number carries its source and date.
+> 가전레이더는 AI가전·AI디바이스(AI 안경·AI 녹음기)·소형가전·대형가전 트렌드와 다나와 인기순위·리뷰로 고른 MD 추천템을 매일 아침 7시(KST)에 정리하는 한국어 가전 매거진입니다. Gajeon Radar is a daily Korean appliance magazine (English edition available) covering AI appliances, AI devices, small and major appliances in Korea, the US, Japan, China and Europe. Every number carries its source and date.
 
-- 발행: 매일 08:00 KST · 언어: 한국어(원문), 영어(번역판)
+- 발행: 매일 07:00 KST · 언어: 한국어(원문), 영어(번역판)
 - 점수: 수요·검증·타이밍·접근성·마진 1~5점 평균(0.5 단위), 4.0 이상 추천템 · 3.5 조건부 · 3.0 이하 관망
 - 가격·리뷰·순위 출처: 다나와 인기상품순(광고 제외), 해외는 제조사 발표가
 - 쿠팡 링크는 쿠팡 파트너스 제휴 링크입니다
@@ -23,8 +23,8 @@
 - [신일 에코 팬 큐브 히터 SEH-H800V](https://newyangs007.github.io/atelier-electro/p/124871036.html): 추천템 4.0, 128,880원, 다나와 전기히터 인기 1위
 - [조지루시 STAN 가습기 EE-FAH50K](https://newyangs007.github.io/atelier-electro/p/124298665.html): 추천템 4.0, 360,670원, 다나와 가습기 인기 1위
 - [블라우풍트 에어이지 프로 BLP-HD7300](https://newyangs007.github.io/atelier-electro/p/97406273.html): 추천템 4.0, 63,430원, 다나와 헤어드라이어 인기 4위
-- [플라우드 노트 프로 AI 녹음기](https://newyangs007.github.io/atelier-electro/p/108229562.html): 추천템 4.0, 298,000원, 다나와 AI녹음기 인기 1위
-- [플라우드 노트핀 S AI 녹음기](https://newyangs007.github.io/atelier-electro/p/122724762.html): 추천템 4.0, 279,000원, 다나와 AI녹음기 인기 2위
+- [플라우드 노트 프로 AI 녹음기](https://newyangs007.github.io/atelier-electro/p/108229562.html): 추천템 4.0, 298,000원, 다나와 AI 녹음기 인기 1위
+- [플라우드 노트핀 S AI 녹음기](https://newyangs007.github.io/atelier-electro/p/122724762.html): 추천템 4.0, 279,000원, 다나와 AI 녹음기 인기 2위
 - [모바 P70 Pro Ultra 로봇청소기](https://newyangs007.github.io/atelier-electro/p/124075398.html): 조건부 3.5, 549,000원, 다나와 로봇청소기 인기 1위
 - [아이닉 4세대 올스텐 에어프라이어 iSA6L](https://newyangs007.github.io/atelier-electro/p/72816731.html): 조건부 3.5, 89,000원, 다나와 에어프라이어 인기 3위
 - [메타 레이밴 웨이페어러 3세대 RW4011](https://newyangs007.github.io/atelier-electro/p/124569231.html): 조건부 3.5, 740,000원, 다나와 AI 스마트안경 인기 1위
@@ -38,10 +38,10 @@
 - [Toffy 오토 스프 블렌더 세라믹 코트 K-AS2](https://newyangs007.github.io/atelier-electro/p/toffy-k-as2.html): 관망 3.0, ¥9,900, 일본 DIME 2026 히트
 - [Shark PowerPro Flex Reveal Plus 무선청소기](https://newyangs007.github.io/atelier-electro/p/shark-powerpro-flex-reveal-plus.html): 관망 3.0, $379.99, TikTok Shop US 월 1위
 - [삼성 비스포크 AI 스팀 울트라 VR90F01AAG](https://newyangs007.github.io/atelier-electro/p/124075114.html): 관망 3.0, 1,493,460원, 다나와 로봇청소기 인기 2위 · CES 2026 AI 기능
-- [다이슨 스팟앤스크럽 AI 로봇청소기](https://newyangs007.github.io/atelier-electro/p/103877486.html): 관망 3.0, 908,990원, 다나와 등록 2026.01 · 권장가 179만원
+- [다이슨 스팟앤스크럽 AI 로봇청소기](https://newyangs007.github.io/atelier-electro/p/103877486.html): 관망 3.0, 908,990원, 다나와 등록 2026.01 · 권장가 179만 원
 - [Rokid AI 글래스](https://newyangs007.github.io/atelier-electro/p/123803984.html): 관망 3.0, 999,000원, 다나와 AI 스마트안경 인기 2위
-- [앤커 사운드코어 워크 AI 녹음기 D3200](https://newyangs007.github.io/atelier-electro/p/123134941.html): 관망 3.0, 168,900원, 다나와 AI녹음기 인기 4위
-- [이븐리얼리티스 G2 AI글래스 A타입](https://newyangs007.github.io/atelier-electro/p/124921931.html): 관망 3.0, 1,099,000원, 다나와 AI 스마트안경 인기 3위 · 이번 달 등록
+- [앤커 사운드코어 워크 AI 녹음기 D3200](https://newyangs007.github.io/atelier-electro/p/123134941.html): 관망 3.0, 168,900원, 다나와 AI 녹음기 인기 4위
+- [이븐리얼리티스 G2 AI 글래스 A타입](https://newyangs007.github.io/atelier-electro/p/124921931.html): 관망 3.0, 1,099,000원, 다나와 AI 스마트안경 인기 3위 · 이번 달 등록
 - [Ninja PREPi 프렙+보관 시스템](https://newyangs007.github.io/atelier-electro/p/ninja-prepi.html): 관망 2.5, $179 / $229, 미국 신제품
 - [삼성 비스포크 AI 콤보 세탁건조기 WD80H25BHW](https://newyangs007.github.io/atelier-electro/p/108693731.html): 관망 2.5, 2,610,710원, 다나와 올인원 세탁건조기 인기 2위
 
