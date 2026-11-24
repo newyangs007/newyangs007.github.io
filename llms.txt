@@ -31,40 +31,52 @@
 - [LG 디오스 AI 오브제컬렉션 김치톡톡 Z490MEEF11](https://newyangs007.github.io/atelier-electro/p/99125183.html): 조건부 3.5, 2,067,110원, 다나와 김치냉장고(스탠드형) 인기 4위 · 김장철
 - [LG 디오스 AI 오브제컬렉션 냉장고 T876MEE1H1](https://newyangs007.github.io/atelier-electro/p/122666101.html): 조건부 3.5, 2,137,490원, 다나와 냉장고 인기 2위
 - [로보락 S10 MaxV Ultra Steam 로봇청소기](https://newyangs007.github.io/atelier-electro/p/124468606.html): 조건부 3.5, 1,639,990원, 다나와 로봇청소기 인기 5위 · 10월 신제품
+- [삼성 QLED TV KQ85QF6AAFXKR 85인치](https://newyangs007.github.io/atelier-electro/p/4k-uhd-qled-tv-214cm-85-kq85qf.html): 조건부 3.5, 1,519,000원, 정가 대비 41%↓ · 쿠팡 리뷰 3,605
+- [애플 아이폰 17 256GB 자급제](https://newyangs007.github.io/atelier-electro/p/101956046.html): 조건부 3.5, 1,390,000원, 쿠팡 리뷰 16,064 · 평점 5.0
+- [삼성 갤럭시워치8 40mm 블루투스 SM-L320N](https://newyangs007.github.io/atelier-electro/p/8-sm-l320n-40mm.html): 조건부 3.5, 398,050원, 쿠팡 리뷰 9,128 · 평점 5.0
+- [애플워치 SE3 40mm GPS](https://newyangs007.github.io/atelier-electro/p/96981758.html): 조건부 3.5, 350,550원, 쿠팡 리뷰 877 · 평점 5.0
+- [미닉스 더플렌더 Max 음식물처리기 MNFD-200G](https://newyangs007.github.io/atelier-electro/p/max-mnfd-200g.html): 조건부 3.5, 428,000원, 정가 대비 43%↓ · 쿠팡 리뷰 4,086
+- [미닉스 더 플렌더 PRO 음식물처리기 MNFD-120G](https://newyangs007.github.io/atelier-electro/p/pro-mnfd-120g.html): 조건부 3.5, 363,000원, 정가 대비 43%↓ · 쿠팡 리뷰 5,290
+- [메디큐브 에이지알 부스터 프로 블랙](https://newyangs007.github.io/atelier-electro/p/apr1.html): 조건부 3.5, 179,950원, 쿠팡 리뷰 682 · 평점 5.0
+- [APPLE 에어팟 프로3](https://newyangs007.github.io/atelier-electro/p/97405013.html): 조건부 3.5, 296,000원, 정가 대비 19%↓ · 쿠팡 리뷰 23,490
+- [삼성 갤럭시 버즈3 프로 SM-R630N](https://newyangs007.github.io/atelier-electro/p/59537216.html): 조건부 3.5, 154,160원, 쿠팡 리뷰 1,240 · 평점 5.0
+- [APPLE 2025 iPad A16 11세대 128GB](https://newyangs007.github.io/atelier-electro/p/77313098.html): 조건부 3.5, 628,000원, 정가 대비 16%↓ · 쿠팡 리뷰 9,308
+- [SONY WH-1000XM6](https://newyangs007.github.io/atelier-electro/p/92622830.html): 조건부 3.5, 439,000원, 정가 대비 29%↓ · 쿠팡 리뷰 1,585
+- [SONY WH-1000XM5](https://newyangs007.github.io/atelier-electro/p/17229284.html): 조건부 3.5, 379,000원, 정가 대비 26%↓ · 쿠팡 리뷰 9,378
+- [드리미 L40s Pro Ultra 로봇청소기](https://newyangs007.github.io/atelier-electro/p/92104061.html): 조건부 3.5, 689,000원, 정가 대비 46%↓ · 쿠팡 리뷰 684
+- [로보락 S9 MaxV Ultra 로봇청소기](https://newyangs007.github.io/atelier-electro/p/93806297.html): 조건부 3.5, 1,190,000원, 정가 대비 35%↓ · 쿠팡 리뷰 1,858
 - [프리옴 9L 에어프라이어](https://newyangs007.github.io/atelier-electro/p/122616605.html): 관망 3.0, 63,080원, 다나와 에어프라이어 인기 6위
 - [닌자 크리스피 FN100KR](https://newyangs007.github.io/atelier-electro/p/124182087.html): 관망 3.0, 197,100원, 다나와 ‘닌자’ 인기 6위 · 일본 히트
 - [풀무원 스팀쿡 마스터 듀얼스팀 AV20F11](https://newyangs007.github.io/atelier-electro/p/108365732.html): 관망 3.0, 325,710원, 다나와 에어프라이어 인기 5위
 - [미닉스 더 플렌더 mini MNFD-300G](https://newyangs007.github.io/atelier-electro/p/122694803.html): 관망 3.0, 255,710원, 다나와 음식물처리기 인기 5위
-- [Toffy 오토 스프 블렌더 세라믹 코트 K-AS2](https://newyangs007.github.io/atelier-electro/p/toffy-k-as2.html): 관망 3.0, ¥9,900, 일본 DIME 2026 히트
-- [Shark PowerPro Flex Reveal Plus 무선청소기](https://newyangs007.github.io/atelier-electro/p/shark-powerpro-flex-reveal-plus.html): 관망 3.0, $379.99, TikTok Shop US 월 1위
+- [Toffy 오토 스프 블렌더 세라믹 코트 K-AS2](https://newyangs007.github.io/atelier-electro/p/toffy-k-as2.html): 관망 3.0, 128,100원, 일본 DIME 2026 히트
 - [삼성 비스포크 AI 스팀 울트라 VR90F01AAG](https://newyangs007.github.io/atelier-electro/p/124075114.html): 관망 3.0, 1,493,460원, 다나와 로봇청소기 인기 2위 · CES 2026 AI 기능
 - [다이슨 스팟앤스크럽 AI 로봇청소기](https://newyangs007.github.io/atelier-electro/p/103877486.html): 관망 3.0, 908,990원, 다나와 등록 2026.01 · 권장가 179만 원
-- [Rokid AI 글래스](https://newyangs007.github.io/atelier-electro/p/123803984.html): 관망 3.0, 999,000원, 다나와 AI 스마트안경 인기 2위
 - [앤커 사운드코어 워크 AI 녹음기 D3200](https://newyangs007.github.io/atelier-electro/p/123134941.html): 관망 3.0, 168,900원, 다나와 AI 녹음기 인기 4위
 - [이븐리얼리티스 G2 AI 글래스 A타입](https://newyangs007.github.io/atelier-electro/p/124921931.html): 관망 3.0, 1,099,000원, 다나와 AI 스마트안경 인기 3위 · 이번 달 등록
-- [드리미 L40s Pro Ultra 로봇청소기](https://newyangs007.github.io/atelier-electro/p/92104061.html): 관망 3.0, 696,570원, 다나와 상반기 판매 3위
-- [앤커 유피 C28 옴니 로봇청소기](https://newyangs007.github.io/atelier-electro/p/107769194.html): 관망 3.0, 599,900원, 다나와 로봇청소기 인기 6위
-- [삼성 갤럭시탭S11 128GB](https://newyangs007.github.io/atelier-electro/p/96985325.html): 관망 3.0, 1,109,290원, 다나와 태블릿 인기 1위
-- [APPLE 에어팟 프로3](https://newyangs007.github.io/atelier-electro/p/97405013.html): 관망 3.0, 287,490원, 다나와 무선 이어폰 인기 1위
+- [LG 올레드 evo AI OLED48C6KNA 48인치](https://newyangs007.github.io/atelier-electro/p/108401885.html): 관망 3.0, 1,720,500원, 정가 대비 27%↓ · 쿠팡 리뷰 130
+- [삼성 스마트TV KU43F6050FFXKR 43인치](https://newyangs007.github.io/atelier-electro/p/93702980.html): 관망 3.0, 437,980원, 정가 대비 12%↓ · 쿠팡 리뷰 10
+- [삼성 OLED TV KQ65SF8EAEXKR 65인치](https://newyangs007.github.io/atelier-electro/p/4k-uhd-oled-tv-163cm-65-kq65sf.html): 관망 3.0, 2,290,000원, 쿠팡 리뷰 221 · 평점 5.0
+- [삼성 OLED TV KQ48SH85AEXKR 48인치](https://newyangs007.github.io/atelier-electro/p/4k-uhd-oled-tv-kq48sh85aexkr.html): 관망 3.0, 1,140,000원, 정가 대비 36%↓ · 쿠팡 리뷰 46
+- [LG 울트라HD TV 43UA7500ENA 43인치](https://newyangs007.github.io/atelier-electro/p/lg-4k-uhd-hd-tv-107cm-43-43ua.html): 관망 3.0, 459,000원, 쿠팡 리뷰 52 · 평점 4.5
+- [삼성 갤럭시 S26 256GB 자급제 SM-S942N](https://newyangs007.github.io/atelier-electro/p/106720964.html): 관망 3.0, 1,193,000원, 정가 대비 15%↓ · 쿠팡 리뷰 10,178
+- [애플 아이폰 Duo 256GB 자급제](https://newyangs007.github.io/atelier-electro/p/256gb.html): 관망 3.0, 3,290,000원, 쿠팡 리뷰 268 · 평점 5.0
+- [삼성 갤럭시 Z 폴드8 256GB 자급제 SM-F971N](https://newyangs007.github.io/atelier-electro/p/122720341.html): 관망 3.0, 2,164,100원, 쿠팡 리뷰 6,341 · 평점 5.0
+- [가민 포러너 265 블랙](https://newyangs007.github.io/atelier-electro/p/19457261.html): 관망 3.0, 452,000원, 정가 대비 23%↓ · 쿠팡 리뷰 464
+- [오우라 링4 (Oura Ring 4) 블랙](https://newyangs007.github.io/atelier-electro/p/4-oura-ring4-black.html): 관망 3.0, 595,000원, 쿠팡 리뷰 2 · 평점 4.5
+- [삼성 갤럭시 링 티타늄 블랙 5호](https://newyangs007.github.io/atelier-electro/p/5.html): 관망 3.0, 309,000원, 쿠팡 리뷰 145 · 평점 5.0
+- [쿠쿠 에코웨일 건조분쇄 음식물처리기 CFD-ENL201DCGW](https://newyangs007.github.io/atelier-electro/p/cfd-enl201dcgw.html): 관망 3.0, 353,900원, 정가 대비 45%↓ · 쿠팡 리뷰 2,395
+- [스마트카라 스톤S 음식물처리기 2L SC-SA0201](https://newyangs007.github.io/atelier-electro/p/s-2l-sc-s.html): 관망 3.0, 360,000원, 정가 대비 39%↓ · 쿠팡 리뷰 183
+- [스마트카라 블레이드X 음식물처리기 5L SC-D0404-A](https://newyangs007.github.io/atelier-electro/p/x-5l.html): 관망 3.0, 674,120원, 정가 대비 51%↓ · 쿠팡 리뷰 108
+- [쿠쿠 IH 압력밥솥 6인용 CRP-FHXB0610FD](https://newyangs007.github.io/atelier-electro/p/ih-6-crp-fhxb0610fd.html): 관망 3.0, 360,000원, 정가 대비 31%↓ · 쿠팡 리뷰 3,858
+- [메디큐브 에이지알 부스터 프로 X2 핑크 ME-BPXT](https://newyangs007.github.io/atelier-electro/p/x2-me-bpxt.html): 관망 3.0, 259,000원, 정가 대비 31%↓ · 쿠팡 리뷰 41
+- [메디큐브 에이지알 하이 포커스 샷 플러스 화이트](https://newyangs007.github.io/atelier-electro/p/n04.html): 관망 3.0, 242,000원, 쿠팡 리뷰 17 · 평점 4.0
+- [삼성 갤럭시탭 S11 128GB Wi-Fi (보호필름 패키지)](https://newyangs007.github.io/atelier-electro/p/96985325.html): 관망 3.0, 1,215,000원, 쿠팡 리뷰 95 · 평점 5.0
+- [앤커 유피 C28 옴니 로봇청소기](https://newyangs007.github.io/atelier-electro/p/107769194.html): 관망 3.0, 596,900원, 정가 대비 40%↓ · 쿠팡 리뷰 5
+- [에코백스 디봇 T90 프로 옴니 로봇청소기](https://newyangs007.github.io/atelier-electro/p/106687076.html): 관망 3.0, 749,000원, 쿠팡 판매 중 · 리뷰 수집 전
+- [Rokid AI 글래스](https://newyangs007.github.io/atelier-electro/p/123803984.html): 관망 3.0, 614,200원, 정가 대비 19%↓ · 쿠팡 리뷰 —
 - [삼성 비스포크 AI 콤보 세탁건조기 WD80H25BHW](https://newyangs007.github.io/atelier-electro/p/108693731.html): 관망 2.5, 2,610,710원, 다나와 올인원 세탁건조기 인기 2위
-- [로보락 S9 MaxV Ultra 로봇청소기](https://newyangs007.github.io/atelier-electro/p/93806297.html): 관망 2.5, 1,190,000원, 다나와 로봇청소기 인기 7위
-- [에코백스 디봇 T90 프로 옴니 로봇청소기](https://newyangs007.github.io/atelier-electro/p/106687076.html): 관망 2.5, 899,000원, 다나와 로봇청소기 인기 9위
-- [삼성 스마트TV KU43F6050FFXKR 43인치](https://newyangs007.github.io/atelier-electro/p/93702980.html): 관망 2.5, 395,640원, 다나와 TV 인기 7위
-- [삼성 올레드 KQ65SF90AFXKR 65인치](https://newyangs007.github.io/atelier-electro/p/77623823.html): 관망 2.5, 3,067,260원, 삼성 QD-OLED 65인치 · 출시가 대비 −28%
-- [LG 올레드 evo AI OLED42C5ENA 42인치](https://newyangs007.github.io/atelier-electro/p/89863406.html): 관망 2.5, 1,172,770원, 다나와 TV 인기 30위 · 120만 원 이하 올레드
-- [삼성 갤럭시S26 256GB 자급제](https://newyangs007.github.io/atelier-electro/p/106720964.html): 관망 2.5, 1,118,920원, 다나와 휴대폰 인기 2위
-- [가민 포러너 265](https://newyangs007.github.io/atelier-electro/p/19457261.html): 관망 2.5, 459,000원, 다나와 스마트워치 인기 6위
-- [SONY WH-1000XM6](https://newyangs007.github.io/atelier-electro/p/92622830.html): 관망 2.5, 479,190원, 다나와 무선 헤드폰 인기 3위
-- [SONY WH-1000XM5](https://newyangs007.github.io/atelier-electro/p/17229284.html): 관망 2.5, 272,800원, 다나와 무선 헤드폰 인기 2위
-- [삼성 Crystal UHD KU65UF8000FXKR 65인치](https://newyangs007.github.io/atelier-electro/p/80565860.html): 관망 2.0, 1,048,500원, 삼성 65인치 4K 스마트TV
-- [LG 울트라HD AI 50UA7500KNA 50인치](https://newyangs007.github.io/atelier-electro/p/89601677.html): 관망 2.0, 600,570원, 다나와 TV 인기 11위
-- [LG 올레드 evo AI OLED48C6KNA 48인치](https://newyangs007.github.io/atelier-electro/p/108401885.html): 관망 2.0, 1,649,920원, 2026년형 LG 올레드 48인치
-- [삼성 갤럭시북6 프로 NT960XJG-KC51G](https://newyangs007.github.io/atelier-electro/p/104939918.html): 관망 2.0, 2,689,990원, 다나와 AI 노트북 인기 16위
-- [APPLE 2025 iPad A16 11세대 128GB](https://newyangs007.github.io/atelier-electro/p/77313098.html): 관망 2.0, 629,520원, 다나와 태블릿 인기 10위
-- [APPLE 아이폰17 256GB 자급제](https://newyangs007.github.io/atelier-electro/p/101956046.html): 관망 2.0, 1,251,300원, 다나와 휴대폰 인기 17위
-- [APPLE 워치 SE 3세대 40mm](https://newyangs007.github.io/atelier-electro/p/96981758.html): 관망 2.0, 325,690원, 다나와 스마트워치 인기 11위
-- [삼성 갤럭시 버즈3 프로 SM-R630N](https://newyangs007.github.io/atelier-electro/p/59537216.html): 관망 2.0, 219,000원, 다나와 무선 이어폰 인기 11위
-- [APPLE 에어팟4 액티브 노이즈 캔슬링](https://newyangs007.github.io/atelier-electro/p/65919884.html): 관망 2.0, 179,500원, 다나와 무선 이어폰 인기 10위
+- [쿠첸 123 듀얼프레셔 IH 압력밥솥 6인용 CRT-VXPD0681KEGW](https://newyangs007.github.io/atelier-electro/p/123-ih-6-crt-vxpd068.html): 관망 2.5, 320,780원, 쿠팡 리뷰 16 · 평점 4.5
 
 ## 지난 호 / Archive
 - [2026-11-24 No.003 TV는 中이 앞서고, 로봇청소기는 해외로](https://newyangs007.github.io/atelier-electro/issue/2026-11-24.html)
