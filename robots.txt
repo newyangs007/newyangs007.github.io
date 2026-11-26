@@ -50,3 +50,4 @@ User-agent: GrokBot
 Allow: /
 
 Sitemap: https://newyangs007.github.io/atelier-electro/sitemap.xml
+Sitemap: https://newyangs007.github.io/food-waste-insight/sitemap.xml
