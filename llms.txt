@@ -8,18 +8,18 @@
 - 쿠팡 링크는 쿠팡 파트너스 제휴 링크입니다
 
 ## 최신 호 / Latest issue
-- [2026-11-26 한국어판 (Markdown)](https://newyangs007.github.io/atelier-electro/issue/2026-11-26.md): 중국 TV가 앞섰고, 삼성 로봇은 CES로
-- [2026-11-26 한국어판 (HTML)](https://newyangs007.github.io/atelier-electro/issue/2026-11-26.html)
-- [2026-11-26 English edition (Markdown)](https://newyangs007.github.io/atelier-electro/en/issue/2026-11-26.md)
+- [2026-11-27 한국어판 (Markdown)](https://newyangs007.github.io/atelier-electro/issue/2026-11-27.md): 스마트폰 역대 최대 감소, 삼성은 가전을 쪼갰다
+- [2026-11-27 한국어판 (HTML)](https://newyangs007.github.io/atelier-electro/issue/2026-11-27.html)
+- [2026-11-27 English edition (Markdown)](https://newyangs007.github.io/atelier-electro/en/issue/2026-11-27.md)
 - [English homepage](https://newyangs007.github.io/atelier-electro/en/)
 
-## AI가전 MD 셀렉트 (2026-11-26)
+## AI가전 MD 셀렉트 (2026-11-27)
 - [LG 디오스 AI 오브제컬렉션 냉장고 T876MEE1H1](https://newyangs007.github.io/atelier-electro/p/122666101.html): 다나와 냉장고 인기 2위, 2,137,490원, 리뷰 945·평점 4.8. 다나와 냉장고 인기 2위의 AI 모델. 폭 914mm가 들어갈 자리부터 재 보세요.
 - [삼성 비스포크 AI 스팀 울트라 VR90F01AAG](https://newyangs007.github.io/atelier-electro/p/124075114.html): 다나와 로봇청소기 인기 2위 · CES 2026 AI 기능, 1,493,460원, 리뷰 763·평점 4.7. 사물·투명 액체 인식이 강점. 직배수형(VR90F01SAG)은 설치 여건을 먼저 확인하세요.
 - [LG 디오스 AI 오브제컬렉션 김치톡톡 Z490MEEF11](https://newyangs007.github.io/atelier-electro/p/99125183.html): 다나와 김치냉장고(스탠드형) 인기 4위 · 김장철, 2,067,110원, 리뷰 464·평점 4.9. 지금이 김장철 성수기. 설치 폭 835mm와 기본 김치통 8개 구성을 먼저 확인하세요.
 - [로보락 S10 MaxV Ultra Steam 로봇청소기](https://newyangs007.github.io/atelier-electro/p/124468606.html): 다나와 로봇청소기 인기 5위 · 10월 신제품, 1,639,990원, 리뷰 499·평점 4.8. 스팀 살균 스테이션이 차별점. 문턱이 많은 집이라면 최대 8.8cm 넘기 기능이 유리합니다.
 
-## 오늘의 추천템 (2026-11-26)
+## 오늘의 추천템 (2026-11-27)
 - [신일 에코 팬 큐브 히터 SEH-H800V](https://newyangs007.github.io/atelier-electro/p/124871036.html): 추천템 4.0, 128,880원, 다나와 전기히터 인기 1위
 - [조지루시 STAN 가습기 EE-FAH50K](https://newyangs007.github.io/atelier-electro/p/124298665.html): 추천템 4.0, 360,490원, 다나와 가습기 인기 1위
 - [블라우풍트 에어이지 프로 BLP-HD7300](https://newyangs007.github.io/atelier-electro/p/97406273.html): 추천템 4.0, 67,860원, 다나와 헤어드라이어 인기 4위
@@ -79,6 +79,7 @@
 - [쿠첸 123 듀얼프레셔 IH 압력밥솥 6인용 CRT-VXPD0681KEGW](https://newyangs007.github.io/atelier-electro/p/123-ih-6-crt-vxpd068.html): 관망 2.5, 320,780원, 쿠팡 리뷰 16 · 평점 4.5
 
 ## 지난 호 / Archive
+- [2026-11-27 No.006 스마트폰 역대 최대 감소, 삼성은 가전을 쪼갰다](https://newyangs007.github.io/atelier-electro/issue/2026-11-27.html)
 - [2026-11-26 No.005 중국 TV가 앞섰고, 삼성 로봇은 CES로](https://newyangs007.github.io/atelier-electro/issue/2026-11-26.html)
 - [2026-11-25 No.004 OLED는 한국이 쥐고, 로봇은 돈을 벌러](https://newyangs007.github.io/atelier-electro/issue/2026-11-25.html)
 - [2026-11-24 No.003 TV는 中이 앞서고, 로봇청소기는 해외로](https://newyangs007.github.io/atelier-electro/issue/2026-11-24.html)
@@ -89,7 +90,3 @@
 - [RSS](https://newyangs007.github.io/atelier-electro/rss.xml)
 - [Sitemap](https://newyangs007.github.io/atelier-electro/sitemap.xml)
 - [개인정보처리방침](https://newyangs007.github.io/atelier-electro/privacy.html)
-
-## 음식물처리기 마켓 레이더 (음식물처리기 시장동향 뉴스레터)
-- [음식물처리기 마켓 레이더 최신호](https://newyangs007.github.io/food-waste-insight/): 음식물처리기 가격 추이·네이버 쇼핑라이브·검색 트렌드·뉴스를 출처와 함께 정리
-- [음식물처리기 마켓 레이더 llms.txt](https://newyangs007.github.io/food-waste-insight/llms.txt)
