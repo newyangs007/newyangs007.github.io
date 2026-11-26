@@ -90,6 +90,6 @@
 - [Sitemap](https://newyangs007.github.io/atelier-electro/sitemap.xml)
 - [개인정보처리방침](https://newyangs007.github.io/atelier-electro/privacy.html)
 
-## 음처기 인사이트 (음식물처리기 시장 뉴스레터)
-- [음처기 인사이트 최신호](https://newyangs007.github.io/food-waste-insight/): 음식물처리기 가격 추이·네이버 쇼핑라이브·검색 트렌드·뉴스를 출처와 함께 정리
-- [음처기 인사이트 llms.txt](https://newyangs007.github.io/food-waste-insight/llms.txt)
+## 음식물처리기 마켓 레이더 (음식물처리기 시장동향 뉴스레터)
+- [음식물처리기 마켓 레이더 최신호](https://newyangs007.github.io/food-waste-insight/): 음식물처리기 가격 추이·네이버 쇼핑라이브·검색 트렌드·뉴스를 출처와 함께 정리
+- [음식물처리기 마켓 레이더 llms.txt](https://newyangs007.github.io/food-waste-insight/llms.txt)
